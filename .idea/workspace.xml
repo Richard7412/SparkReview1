@@ -464,11 +464,11 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="505" />
-    <option name="y" value="180" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="398" />
+    <option name="y" value="138" />
     <option name="width" value="1395" />
-    <option name="height" value="790" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -543,8 +543,8 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
@@ -589,16 +589,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586660690498</updated>
-      <workItem from="1586660693930" duration="1500000" />
+      <workItem from="1586660693930" duration="2171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1511000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="742" y="116" width="1116" height="624" extended-state="0" />
     <editor active="true" />
+=======
+    <option name="totallyTimeSpent" value="2289000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="742" y="116" width="1116" height="624" extended-state="0" />
+>>>>>>> feature1
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.352552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -614,7 +621,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.6565041" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.6565041" />
+>>>>>>> feature1
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" />
